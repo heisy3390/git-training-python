@@ -3,7 +3,7 @@
 def process1():
 	pass
 	# TODO C1 以下のコメントアウトを外してください！
-	print("hello world!")
+	print("阿達参上！！！")
 
 
 def process2():
