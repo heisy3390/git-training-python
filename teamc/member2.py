@@ -8,4 +8,4 @@ def process1():
 def process2():
 	pass
 	# TODO C7 以下のコメントアウトを外してください！
-	#print("called teama member2 process2")
+	print("called teama member2 process2")
